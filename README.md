@@ -1,6 +1,6 @@
 # ResNet 2bit MNIST
 
-Using PACT implementation to achieve $ \ge99.6 \% $  accuracy on MNIST dataset with ResNet model.
+Using PACT implementation to achieve more than 99.6% accuracy on MNIST dataset with ResNet model.
 
 ## Results
 Current achievements - ResNet 2bit with accuracy = 99.69% \
