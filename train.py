@@ -98,7 +98,7 @@ def run(
     # Learning Rate Scheduler
     lr_scheduler = torch.optim.lr_scheduler.MultiStepLR(
         optimizer=optimizer,
-        milestones=[30, 50],
+        milestones=[20, 30, 50],
         verbose=True
     )
 
